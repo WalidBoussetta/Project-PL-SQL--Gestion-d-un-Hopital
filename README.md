@@ -148,6 +148,6 @@ Année universitaire : 2025/2026
 
 ---
 
-## 📄 Licence
+##  Licence
 
 Projet académique — Usage éducatif uniquement.
